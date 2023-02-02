@@ -4,3 +4,8 @@ Personal portfolio for 4375 Introduction to Machine Learning with Dr. Karen Mazi
 ## Getting Started
 
 [Overview of ML](https://github.com/AustinGirouard/4375-IntroML/blob/main/Overview_of_ML.pdf)
+
+## Assignment 1: Data Exploration with C++
+
+[Assignment 1 Code](https://github.com/AustinGirouard/4375-IntroML/blob/main/Assignment%201%20Files/main.cpp)  
+[Assignment 1 Breakdown](https://github.com/AustinGirouard/4375-IntroML/blob/main/Assignment%201%20Files/Assignment1_Data_Exploration_Breakdown.pdf)
