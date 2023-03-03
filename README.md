@@ -13,6 +13,3 @@ Personal portfolio for 4375 Introduction to Machine Learning with Dr. Karen Mazi
 ## Assignment 2: Linear Models
 [Regression Model](https://github.com/AustinGirouard/4375-IntroML/blob/main/Assignment%202%20Files/ML_Regression.pdf)  
 [Classification Model](https://github.com/AustinGirouard/4375-IntroML/blob/main/Assignment%202%20Files/ML_Classification.pdf)  
-
-## Assignment 3: Sentence Parsing
-[Sentence Parsing](https://github.com/AustinGirouard/4375-IntroML/blob/main/Assignment%203%20Files/Assignment3_Sentence_Parsing.pdf)
