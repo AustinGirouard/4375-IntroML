@@ -13,3 +13,8 @@ Personal portfolio for 4375 Introduction to Machine Learning with Dr. Karen Mazi
 ## Assignment 2: Linear Models
 [Regression Model](https://github.com/AustinGirouard/4375-IntroML/blob/main/Assignment%202%20Files/ML_Regression.pdf)  
 [Classification Model](https://github.com/AustinGirouard/4375-IntroML/blob/main/Assignment%202%20Files/ML_Classification.pdf)  
+
+## Assignment 3: ML Algorithms from Scratch
+[Logistic_Regression.c Code](https://github.com/AustinGirouard/4375-IntroML/blob/main/Assignment%203%20Files/Logistic_Regression.cpp)  
+[Naive_Bayes.c Code](https://github.com/AustinGirouard/4375-IntroML/blob/main/Assignment%203%20Files/Naive_Bayes.cpp)  
+[Assignment 3 Overview](https://github.com/AustinGirouard/4375-IntroML/blob/main/Assignment%203%20Files/ML_Algorithms_From_Scratch.pdf)  
