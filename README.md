@@ -25,3 +25,6 @@ Personal portfolio for 4375 Introduction to Machine Learning with Dr. Karen Mazi
 [kNN Regression R-Markdown](https://github.com/AustinGirouard/4375-IntroML/blob/main/Assignment%204%20Files/kNN_Regression.pdf)  
 [DT Regression R-Markdown](https://github.com/AustinGirouard/4375-IntroML/blob/main/Assignment%204%20Files/DT_Regression.pdf)  
 [Overview Analysis](https://github.com/AustinGirouard/4375-IntroML/blob/main/Assignment%204%20Files/Group_Project_Part_1_Analysis.pdf)  
+
+## Assignment 5: SKLearn
+[MKLearn Notebook](https://github.com/AustinGirouard/4375-IntroML/blob/main/Assignment%205%20Files/Assignment5_SKLearn.pdf)  
