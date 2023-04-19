@@ -28,3 +28,6 @@ Personal portfolio for 4375 Introduction to Machine Learning with Dr. Karen Mazi
 
 ## Assignment 5: SKLearn
 [MKLearn Notebook](https://github.com/AustinGirouard/4375-IntroML/blob/main/Assignment%205%20Files/Assignment5_SKLearn.pdf)  
+
+## Assignment 6: Image Classification
+[Image Classification Notebook](https://github.com/AustinGirouard/4375-IntroML/blob/main/Assignment%206%20Files/Image_Classification.pdf)  
