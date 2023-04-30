@@ -1,7 +1,20 @@
 # 4375-IntroML
 Personal portfolio for 4375 Introduction to Machine Learning with Dr. Karen Mazidi
 
-## Getting Started
+## Technical and Soft Skills  
+### Technical
+- Proficiency in Python
+- Machine Learning in C++
+- ML libraries (SKLearn, Pandas, TensorFlow, Seaborn, etc.)
+- ML implementations (Regression Models, Decision Trees, KNN/RNN)
+
+### Soft
+- Division of work in small teams
+- Improved researching skills
+- Version management through GitHub and Google Colab history
+- Team communication skills
+
+## Index Page
 
 [Overview of ML](https://github.com/AustinGirouard/4375-IntroML/blob/main/Overview_of_ML.pdf)
 
@@ -27,7 +40,7 @@ Personal portfolio for 4375 Introduction to Machine Learning with Dr. Karen Mazi
 [Overview Analysis](https://github.com/AustinGirouard/4375-IntroML/blob/main/Assignment%204%20Files/Group_Project_Part_1_Analysis.pdf)  
 
 ## Assignment 5: SKLearn
-[MKLearn Notebook](https://github.com/AustinGirouard/4375-IntroML/blob/main/Assignment%205%20Files/Assignment5_SKLearn.pdf)  
+[SKLearn Notebook](https://github.com/AustinGirouard/4375-IntroML/blob/main/Assignment%205%20Files/Assignment5_SKLearn.pdf)  
 
 ## Assignment 6: Image Classification
 [Image Classification Notebook](https://github.com/AustinGirouard/4375-IntroML/blob/main/Assignment%206%20Files/Image_Classification.pdf)  
