@@ -1,6 +1,9 @@
 # 4375-IntroML
 Personal portfolio for 4375 Introduction to Machine Learning with Dr. Karen Mazidi
 
+## Summary
+Throughout this course, I have developed a strong familiarity with many useful implemenations of Machine Learning, such as decision trees, neural networks, and regression and classification models. I am really excited to implement ML into my own personal projects and possibly into my work once I graduate. ML is rapidly changing, especially with the release of more advanced autonomous vehicles and manufacturing tools as well as highly sophisticated language models like GPT-3/GPT-4, so I plan on researching these topics more as I move forward in my career in order to stay ahead my peers and to gain a better understanding of modern technological advances.
+
 ## Technical and Soft Skills  
 ### Technical
 - Proficiency in Python
